@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**Jack15000/Jack15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Here I develop software that make life a tiny bit more easier! 
 
-Here are some ideas to get you started:
+I don't just develop software.
+I also:
+• Manage and Administrate Linux/Unraid Servers
+• Find Exploits and Bugs in Software (Mostly iOS SSH bugs)
+• Also work with networking and make the average Router more secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+Here is a table to give a idea of what the programs you will see here will be coded with. 
+
+|        Languages         | Details                                     |
+| ------------------------ | ------------------------------------------- |
+| Python                   | Good to make something i thought of quickly 
+| C++                      | Used to make a nice GUI program             |
+| JavaScript               | Used in websites to make them more fancy    |
+| HTML/CSS                 | Making websites and design                  |
