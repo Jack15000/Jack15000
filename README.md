@@ -4,9 +4,9 @@
 
 I don't just develop software.
 I also:
-• Manage and Administrate Linux/Unraid Servers
-• Find Exploits and Bugs in Software (Mostly iOS SSH bugs)
-• Also work with networking and make the average Router more secure.
+- Manage and Administrate Linux/Unraid Servers
+- Find Exploits and Bugs in Software (Mostly iOS SSH bugs)
+- Also work with networking and make the average Router more secure.
 
 ## Languages
 
